@@ -1,0 +1,19 @@
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness App Final.csproj.AssemblyReference.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.Opening.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.Properties.Resources.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness App Final.csproj.GenerateResource.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness App Final.csproj.CoreCompileInputs.cache
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\bin\Debug\Buisness App Final.exe.config
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\bin\Debug\Buisness App Final.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\bin\Debug\Buisness App Final.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness App Final.exe
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness App Final.pdb
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.UI.SignUp.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.UI.AdminMenu.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.UI.CoachMenu.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.UI.FanMenu.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.UI.PlayerMenu.resources
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\bin\Debug\EZInput.dll
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\bin\Debug\EZInput.xml
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness App Final.csproj.CopyComplete
+C:\Users\92309\OneDrive\Desktop\University\Object Oriented Programming\OOP 10\Buisness App Final\obj\Debug\Buisness_App_Final.UI.AddStats.resources
